@@ -1,8 +1,5 @@
 1. mulai
 2. input kalimat
-3. buat function yang menerima parameter dari kalimat,yang dimana function tsb melakukan pembalikan urutan kata di kalimat dengan
-   kode 
-   balikKalimat=kalimat.split(' ').reverse().join(' ')
-   return balikKalimat
-4. output dengan memanggil function tsb
+3. balikKalimat=kalimat.split(' ').reverse().join(' ')
+4. output balikKalimat
 5. selesai
